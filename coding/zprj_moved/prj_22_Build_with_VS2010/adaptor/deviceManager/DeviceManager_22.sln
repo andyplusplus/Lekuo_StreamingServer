@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeviceManager", "DeviceManager_22.vcproj", "{30605901-2E6D-4BAA-9FE9-6771DFB781CA}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30605901-2E6D-4BAA-9FE9-6771DFB781CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30605901-2E6D-4BAA-9FE9-6771DFB781CA}.Debug|Win32.Build.0 = Debug|Win32
+		{30605901-2E6D-4BAA-9FE9-6771DFB781CA}.Release|Win32.ActiveCfg = Release|Win32
+		{30605901-2E6D-4BAA-9FE9-6771DFB781CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

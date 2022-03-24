@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSUtility", "RSUtility_22.vcproj", "{10A2972C-5924-4183-9D42-B5687A29676F}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = RSUtility_22.vcproj
+		SccProjectName0 = \u0022$/020.Dev/20.myProject/01.StreamingServer/Development/_Utility\u0022,\u0020SLAAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A2972C-5924-4183-9D42-B5687A29676F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10A2972C-5924-4183-9D42-B5687A29676F}.Debug|Win32.Build.0 = Debug|Win32
+		{10A2972C-5924-4183-9D42-B5687A29676F}.Release|Win32.ActiveCfg = Release|Win32
+		{10A2972C-5924-4183-9D42-B5687A29676F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+call "J:\_CV\02.Dev\OpenSource\StreamingServer\Development\01.RelayServer\APIModules\TestDevModule\ModuleFileCopy.bat"
+call "J:\_CV\02.Dev\OpenSource\StreamingServer\Development\01.RelayServer\WinNTSupport\StreamingServerCopy.bat"

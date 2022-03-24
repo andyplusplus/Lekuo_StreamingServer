@@ -1,0 +1,132 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "APICommonCode"=..\01.RelayServer\APICommonCode\APICommonCode_Client.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/", AAAAAAAA
+    ..\01.relayserver\apicommoncode
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "APIStubLib"=..\01.RelayServer\APIStubLib\APIStubLib_Client.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "CommonUtilitiesLib"=..\01.RelayServer\CommonUtilitiesLib\CommonUtilitiesLib_Client.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "RelayClientDLL"=.\RelayClientDLL.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name APICommonCode
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name APIStubLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeDynamicModuleStdLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeInternalStdLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "SafeDynamicModuleStdLib"=..\01.RelayServer\SafeStdLib\SafeDynamicModuleStdLib_Client.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SafeInternalStdLib"=..\01.RelayServer\SafeStdLib\SafeInternalStdLib_Client.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "_RelayClientDLLCmdTest"=.\test\_RelayClientDLLCmdTest.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "_RelayClientDLLTest"=.\test\_RelayClientDLLTest.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

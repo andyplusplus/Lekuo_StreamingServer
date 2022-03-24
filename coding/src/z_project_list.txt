@@ -1,0 +1,15 @@
+[ ]		client\conrolPanel\controlPanel_10.vcxproj
+[ ]		client\rsDiagnosis\rsDiagnosis_10.vcxproj
+[ ]		client\rsPlayer\RsPlayer_10.vcxproj
+[ ]		server\AdaptorModule\AdaptorModule_10.vcxproj
+[ ]		utility\rsUtility\RSUtility_10.vcxproj
+[ ]		server\RelayServer\WinNTSupport\StreamingServer_Note_10.vcxproj
+[ ]		utility\LkStrParser\LkStrParser_10.vcxproj
+[ ]		adaptor\LkPlayer\LkPlayer_10.vcxproj
+[ ]		adaptor\vDevAdaptor\vDevAdaptor_10.vcxproj
+[ ]		adaptor\deviceManager\DeviceManager_10.vcxproj
+[ ]		client\rsDaHuaViewer\RsDaHuaViewer_10.vcxproj
+[ ]		adaptor\vDevWithIdx\vDevWithIdx_10.vcxproj
+[ ]		samplecode\hikDemo\hikDemo_10.vcxproj
+[ ]		server\RelayClient\RelayClientDLL_10.vcxproj
+[ ]		samplecode\LkHikAdaptor\LkHikAdaptor_10.vcxproj

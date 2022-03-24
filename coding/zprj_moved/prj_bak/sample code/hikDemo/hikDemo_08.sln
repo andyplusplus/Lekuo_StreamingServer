@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample.hikDemo", "hikDemo_08.vcproj", "{5605017E-5E47-4713-A192-5B1FAFFD1534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Device|Win32 = Debug_Device|Win32
+		Debug_VDev|Win32 = Debug_VDev|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Debug_Device|Win32.ActiveCfg = Debug|Win32
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Debug_VDev|Win32.ActiveCfg = Debug|Win32
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Debug_VDev|Win32.Build.0 = Debug|Win32
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Debug|Win32.Build.0 = Debug|Win32
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Release|Win32.ActiveCfg = Release|Win32
+		{5605017E-5E47-4713-A192-5B1FAFFD1534}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

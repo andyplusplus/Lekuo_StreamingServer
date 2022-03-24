@@ -1,0 +1,263 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "APICommonCode"=.\APICommonCode\APICommonCode_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "APIStubLib"=.\APIStubLib\APIStubLib_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "CommonUtilitiesLib"=.\CommonUtilitiesLib\CommonUtilitiesLib_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "PlaylistBroadcaster"=.\PlaylistBroadcaster.tproj\PlaylistBroadcaster_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name QTFileExternalLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeInternalStdLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name APICommonCode
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "QTFileExternalLib"=.\QTFileLib\QTFileExternalLib\QTFileExternalLib_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name SafeInternalStdLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "QTFileLib"=.\QTFileLib\QTFileLib_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name APIStubLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeInternalStdLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "QTSSRawFileModule"=.\APIModules\QTSSRawFileModule.bproj\QTSSRawFileModule_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name APIStubLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeDynamicModuleStdLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "QTSSRefMovieModule"=.\APIModules\QTSSRefMovieModule\QTSSRefMovieModule_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name APIStubLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeDynamicModuleStdLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name APICommonCode
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "QTSSSpamDefenseModule"=.\APIModules\QTSSSpamDefenseModule.bproj\QTSSSpamDefenseModule_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name APIStubLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeDynamicModuleStdLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name APICommonCode
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "RegistrySystemPathEditor"=.\RegistrySystemPathEditor\RegistrySystemPathEditor_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeInternalStdLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "SafeDynamicModuleStdLib"=.\SafeStdLib\SafeDynamicModuleStdLib_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "SafeInternalStdLib"=.\SafeStdLib\SafeInternalStdLib_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "StreamingServer"=.\WinNTSupport\StreamingServer_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name CommonUtilitiesLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name APIStubLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SafeInternalStdLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name QTFileLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name APICommonCode
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "qtpasswd"=.\qtpasswd.tproj\qtpasswd_Note.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

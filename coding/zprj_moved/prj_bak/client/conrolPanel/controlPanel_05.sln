@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "controlPanel", "controlPanel.vcproj", "{69B914A3-87FE-4AAE-893D-E0EA2A0026DE}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B914A3-87FE-4AAE-893D-E0EA2A0026DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69B914A3-87FE-4AAE-893D-E0EA2A0026DE}.Debug|Win32.Build.0 = Debug|Win32
+		{69B914A3-87FE-4AAE-893D-E0EA2A0026DE}.Release|Win32.ActiveCfg = Release|Win32
+		{69B914A3-87FE-4AAE-893D-E0EA2A0026DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

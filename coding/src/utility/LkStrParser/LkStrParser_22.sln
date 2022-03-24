@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utility.LkStrParser", "LkStrParser_22.vcproj", "{C7865EFB-57C4-4C95-A038-36CD5EB3330C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LkStrParserTest", "test\LkStrParserTest_22.vcproj", "{C8B7825D-4E60-457F-BBCF-D50D051DB639}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C7865EFB-57C4-4C95-A038-36CD5EB3330C} = {C7865EFB-57C4-4C95-A038-36CD5EB3330C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7865EFB-57C4-4C95-A038-36CD5EB3330C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7865EFB-57C4-4C95-A038-36CD5EB3330C}.Debug|Win32.Build.0 = Debug|Win32
+		{C7865EFB-57C4-4C95-A038-36CD5EB3330C}.Release|Win32.ActiveCfg = Release|Win32
+		{C7865EFB-57C4-4C95-A038-36CD5EB3330C}.Release|Win32.Build.0 = Release|Win32
+		{C8B7825D-4E60-457F-BBCF-D50D051DB639}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8B7825D-4E60-457F-BBCF-D50D051DB639}.Debug|Win32.Build.0 = Debug|Win32
+		{C8B7825D-4E60-457F-BBCF-D50D051DB639}.Release|Win32.ActiveCfg = Release|Win32
+		{C8B7825D-4E60-457F-BBCF-D50D051DB639}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal
